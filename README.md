@@ -1,2 +1,2 @@
 # learn
-test and learn git line command
+test and learn git line command lg1 2 3
